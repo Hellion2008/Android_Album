@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Android_Album</string>
+    <string name="previous_text_button">Предыдущая</string>
+    <string name="next_text_button">Следующая</string>
+    <string name="exit">Выход</string>
+    <string name="final_text_text_view">Спасибо за просмотр! До свидания</string>
 </resources>
